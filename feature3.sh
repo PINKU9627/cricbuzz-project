@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello Abhay"
-echo "Hotname of this machine: $(hostame)"
+echo "Hotname of this machine: $(hostname)"
 echo "Kernel Version: $(uname -r)"
